@@ -1,0 +1,34 @@
+_wtk_ : Web Tool Kit
+==========================================
+
+By Jay McCarthy <jay.mccarthy@gmail.com>
+
+Keywords: _net_
+
+Introduction
+============
+
+Files
+====
+_display-until-valid.ss_
+_wtk-auth.ss_
+_wtk-list-table.ss_
+_wtk-list.ss_
+
+_FILE.ss_
+---------------
+
+Require it like this:
+
+> (require (planet "FILE.ss" ("jaymccarthy" "wtk.plt" 1)))
+
+It provides the follow identifiers:
+
+Example
+=======
+
+History
+======
+
+June 21st
+     * Initial
